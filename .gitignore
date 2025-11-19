@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Ambiente/segredos
+.env
+.env.*
+!.env.sample
+
+# Dados locais do app (sensível)
+data/users.json
+data/history.json
+
+# Exports locais (se você gerar arquivos JSON de export)
+*.local.json
+*historico*.json
+*lista*.json
+
+# Logs
+*.log
+npm-debug.log*

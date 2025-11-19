@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProjetoListaDeCompra
 Projeto com Intenção de ajudar pessoas com compras no mercado, utilizando IA para Sugestão 
 =======
@@ -64,12 +63,3 @@ Se não houver dados suficientes, mostramos itens mais populares como fallback.
 - `public/index.html` — UI com Tailwind
 - `public/app.js` — lógica do frontend
 - `data/history.json` — criado automaticamente ao rodar o servidor
-
-## Próximos passos (ideias)
-
-- Autenticação por usuário (para separar históricos)
-- Categorias e unidades por item
-- Preços por item e análise de variação
-- Sugestões sazonais (considerar datas)
-- Exportação/Importação do histórico
->>>>>>> cc8907c (chore: inicializa projeto (Node+TS+Express, CRUD, Auth, UI Tailwind, IA básica))
